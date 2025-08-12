@@ -26,3 +26,4 @@ C:\Users\Daniel Schardosin\Documents\Visual Studio Code\CLI-Calculator\obj\Debug
 C:\Users\Daniel Schardosin\Documents\Visual Studio Code\CLI-Calculator\obj\Debug\net9.0\CLI-Calculator.pdb
 C:\Users\Daniel Schardosin\Documents\Visual Studio Code\CLI-Calculator\obj\Debug\net9.0\CLI-Calculator.genruntimeconfig.cache
 C:\Users\Daniel Schardosin\Documents\Visual Studio Code\CLI-Calculator\obj\Debug\net9.0\ref\CLI-Calculator.dll
+C:\Users\Daniel Schardosin\Documents\Visual Studio Code\CLI-Calculator\obj\Debug\net9.0\CLI-Calculator.sourcelink.json
