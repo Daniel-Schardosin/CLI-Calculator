@@ -2,7 +2,7 @@
 
 Uma calculadora simples para realizar calculos matemáticos de forma simples e interativa.
 
-# Como usar:
+### Como usar:
 
 1. Clone o repositório:
 
