@@ -1,6 +1,6 @@
 ## Console Calculator :) 
 
-Uma calculadora simples para realizar calculos matemáticos de forma simples e interativa.
+Uma calculadora simples para realizar calculos matemáticos de forma interativa.
 
 ### Como usar:
 
