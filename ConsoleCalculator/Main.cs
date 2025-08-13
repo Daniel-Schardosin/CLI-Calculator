@@ -5,9 +5,9 @@ class Program
     {
         Leitor selecao = new Leitor();
         Calculadora operacao = new Calculadora();
-        
+
         //Inputs para obtenção dos valores do tipo string do terminal
-        String? strInput_0; 
+        String? strInput_0;
         String? strInput_1;
 
         //Inputs do tipo decimal para a conversão dos dados lidos 
@@ -33,7 +33,7 @@ class Program
         Input_1 = decimal.Parse(strInput_0);
         Input_2 = decimal.Parse(strInput_1);
 
-        
+
 
         switch (Operador)
         {
@@ -53,9 +53,10 @@ class Program
                 Console.Write("Operador inválido, tente novamente! ");
                 return;
         }
-         Console.WriteLine($"Resultado = {Resultado} ");
+        Console.WriteLine($"Resultado = {Resultado} ");
     }
 }
+
   class Leitor
         {
         public string Operador()
