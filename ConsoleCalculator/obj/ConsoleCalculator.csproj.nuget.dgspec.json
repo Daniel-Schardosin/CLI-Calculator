@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel Schardosin\\Documents\\Visual Studio Code\\ConsoleCalculator\\CLI-Calculator.csproj": {}
+    "C:\\Users\\Daniel Schardosin\\Documents\\Visual Studio Code\\ConsoleCalculator\\ConsoleCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel Schardosin\\Documents\\Visual Studio Code\\ConsoleCalculator\\CLI-Calculator.csproj": {
+    "C:\\Users\\Daniel Schardosin\\Documents\\Visual Studio Code\\ConsoleCalculator\\ConsoleCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Schardosin\\Documents\\Visual Studio Code\\ConsoleCalculator\\CLI-Calculator.csproj",
-        "projectName": "CLI-Calculator",
-        "projectPath": "C:\\Users\\Daniel Schardosin\\Documents\\Visual Studio Code\\ConsoleCalculator\\CLI-Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Schardosin\\Documents\\Visual Studio Code\\ConsoleCalculator\\ConsoleCalculator.csproj",
+        "projectName": "ConsoleCalculator",
+        "projectPath": "C:\\Users\\Daniel Schardosin\\Documents\\Visual Studio Code\\ConsoleCalculator\\ConsoleCalculator.csproj",
         "packagesPath": "C:\\Users\\Daniel Schardosin\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Daniel Schardosin\\Documents\\Visual Studio Code\\ConsoleCalculator\\obj\\",
         "projectStyle": "PackageReference",
