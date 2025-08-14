@@ -7,7 +7,7 @@ Uma calculadora simples para realizar calculos matemáticos de forma interativa.
 1. Clone o repositório:
 
 ```bash
-    git clone https://github.com/Daniel-Schardosin/Console-calculator.git
+    git clone https://github.com/Daniel-Schardosin/ConsoleCalculator.git
 ````
 2. Compile o código
    `dotnet build`
